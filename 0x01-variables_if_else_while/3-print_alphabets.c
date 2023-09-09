@@ -1,9 +1,13 @@
 #include <stdio.h>
-#include <stdlib.h>
-
+/**
+ * main - Prints the alphabet.
+ *
+ *
+ * Return: Always 0 (Sucess)
+ */
 int main(void)
 {
-char c;
+	char c;
 
 	for (c = 'a' ; c <= 'z' ; c++)
 	{
