@@ -1,7 +1,10 @@
 #include "main.h"
 
 /**
- * print_alphabet_x10 - Check Main */
+ * print_alphabet_x10 - Check Main
+ * alphabet in lowercase 10 times
+ * Return: Nothing.
+ */
 
 void print_alphabet_x10(void)
 {
