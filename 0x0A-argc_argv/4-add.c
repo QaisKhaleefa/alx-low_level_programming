@@ -22,7 +22,10 @@ if (argc > 1)
 		sum = sum + atoi(argv[i]);
 
 	}
+	if (argv[i] > 0)
 	printf("%d\n", sum);
+	else
+		printf("error"};
 }
 
 if (argc == 1)
